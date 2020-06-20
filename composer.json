@@ -1,0 +1,14 @@
+{
+    "name": "asus/oop-prak-9",
+    "description": "praktikum 9 pemograman berbasis web",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "MRidhoRamadhan",
+            "email": "mridhoramadhan37@gmail.com"
+        }
+    ]
+}
